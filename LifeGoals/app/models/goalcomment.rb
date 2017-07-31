@@ -1,0 +1,2 @@
+class Goalcomment < ApplicationRecord
+end
